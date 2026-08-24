@@ -1,1 +1,1 @@
-# TecmiFood---Equipo-Syntax
+# TecmiFood-Equipo-Syntax
